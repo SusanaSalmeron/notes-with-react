@@ -1,0 +1,20 @@
+.container {
+    background-color: lightgoldenrodyellow;
+    border: 1px solid black;
+    border-radius: 5px;
+    height: 5vh;
+    margin: 3em 0 3em 2em;
+    width: 50%;    
+}
+
+.note {
+    color: black;
+    font-size: 18px;
+    margin-left: 1em;
+    text-align: left;
+   
+}
+
+.button{
+    float: right;
+}
